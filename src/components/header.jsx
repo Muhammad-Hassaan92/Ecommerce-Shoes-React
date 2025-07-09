@@ -3,7 +3,7 @@ import React from 'react'
 const Header = () => {
     return (
         <div class="row my-3 mx-2 rounded bg-primary" id='header'>
-            <div class="col-md-7 d-flex flex-column justify-content-center px-5">
+            <div class="col-7 d-flex flex-column justify-content-center px-5">
                 <div class="display-1 fw-bolder text-light">MEN'S</div>
                 <div class="display-1 fw-bolder text-dark">Shoe Collections</div>
             </div>

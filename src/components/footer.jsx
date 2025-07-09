@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
         <div class="container-fluid bg-dark rounded my-3 text-light p-0">
-            <div class="row py-5">
+            <div class="row py-5 px-md-0 px-3">
                 <div class="col-md-4 col-12">
                     <img class="img-fluid" src="https://muhammad-hassaan92.github.io/Ecommerce-Landing-Page-Shoes/images/4.png" alt=""></img>
                 </div>
