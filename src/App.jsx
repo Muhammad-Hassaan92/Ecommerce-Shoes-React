@@ -9,7 +9,9 @@ function App() {
 
   return (
     <>
-      <Header/>
+      <div className='container-fluid'>
+        <Header/>
+      </div>
       <div>
         <Title heading="NEW ARRIVALS" subheading="Trending from new and modern mens style collection" />
       </div>
@@ -36,7 +38,9 @@ function App() {
           <HCard title="MEN's Shoe" des="The bulk of card's content" price="49.99" image="https://muhammad-hassaan92.github.io/Ecommerce-Landing-Page-Shoes/images/2.png" />
         </div>
       </div>
-      <Footer/>
+      <div className='container-fluid'>
+        <Footer/>
+      </div>
     </>
 
   )
